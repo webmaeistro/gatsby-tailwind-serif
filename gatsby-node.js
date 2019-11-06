@@ -1,4 +1,4 @@
-export async function createPages({ actions: { createPage }, graphql }) {
+exports.createPages = async ({ actions: { createPage }, graphql }) => {
   const result = await graphql(`
     {
       allMarkdownRemark {
@@ -25,4 +25,4 @@ export async function createPages({ actions: { createPage }, graphql }) {
       }
     });
   });
-}
+};
