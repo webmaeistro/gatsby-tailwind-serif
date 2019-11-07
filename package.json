@@ -1,7 +1,7 @@
 {
-  "name": "Horten-Tannhelse",
-  "description": "Gatsby dentist site in Norwegian serif styled with Tailwind",
-  "version": "2.0",
+  "name": "@webmaeistro/gatsbydentist",
+  "description": "Gatsby dentist website repo in Norwegian",
+  "version": "1.0",
   "author": "@webmaeistro",
   "dependencies": {
     "classnames": "^2.2.6",
@@ -22,7 +22,12 @@
     "react-dom": "16.8.6",
     "react-helmet": "5.2.1"
   },
-  "keywords": ["gatsby", "tailwind", "tailwindcss", "purgecss"],
+  "keywords": [
+    "gatsby",
+    "tailwind",
+    "tailwindcss",
+    "purgecss"
+  ],
   "license": "MIT",
   "scripts": {
     "analyze:lint": "eslint --ext .jsx --ext .js .",
