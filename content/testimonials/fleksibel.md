@@ -1,5 +1,5 @@
 ---
-path: '/testimonials/fleksibel
+path: '/testimonials/fleksibel'
 title: 'Fleksibel og imøtekommende'
 date: 2019-11-07T15:04:35+10:00
 draft: false
