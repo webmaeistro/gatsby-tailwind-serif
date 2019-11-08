@@ -10,7 +10,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Horten Tannhelse AS`,
-        short_name: `horten-tannhelse`,
+        short_name: `hortentannhelse`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#0b4e8d`,

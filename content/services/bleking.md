@@ -1,6 +1,6 @@
 ---
 path: '/services/bleking'
-title: 'Bleking
+title: 'Bleking'
 date: 2019-11-07T12:33:46+10:00
 image: 'services/noun_591323.png'
 ---
