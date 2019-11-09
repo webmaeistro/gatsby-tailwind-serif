@@ -3,7 +3,7 @@ path: '/team/egil-hermandrud-andersen'
 title: 'Egil Hermandrud Andersen'
 date: 2019-11-07T10:47:58+10:00
 draft: false
-image: '/team/sage-kirk-485982-unsplash.jpg'
+image: '/team/peter-van-eijk-711986-unsplash.png'
 jobtitle: 'Tannlege'
 email: ''
 linkedinurl: 'www.linkedin.com/'
