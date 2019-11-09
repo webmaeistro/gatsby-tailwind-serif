@@ -6,7 +6,7 @@ draft: false
 image: '/team/sage-kirk-485982-unsplash.png'
 jobtitle: 'Tannpleier & tannhelsesekretær'
 email: ''
-linkedinurl: 'www.linkedin.com/'
+linkedinurl: ''
 weight: 2
 ---
 

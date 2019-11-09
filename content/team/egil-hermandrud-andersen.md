@@ -6,7 +6,7 @@ draft: false
 image: '/team/peter-van-eijk-711986-unsplash.png'
 jobtitle: 'Tannlege'
 email: ''
-linkedinurl: 'www.linkedin.com/'
+linkedinurl: ''
 weight: 4
 ---
 
