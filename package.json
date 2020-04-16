@@ -1,8 +1,8 @@
 {
-  "name": "@webmaeistro/gatsbydentist",
+  "name": "gatsby-dentist-website",
   "description": "Gatsby dentist website repo in Norwegian",
-  "version": "1.0",
-  "author": "@webmaeistro",
+  "version": "1.0.1",
+  "author": "martin Andersen <marander@pm.me> (@webmaeistro)",
   "dependencies": {
     "classnames": "^2.2.6",
     "gatsby": "2.9.11",
@@ -24,9 +24,9 @@
   },
   "keywords": [
     "gatsby",
-    "tailwind",
-    "tailwindcss",
-    "purgecss"
+    "gatsby-plugin",
+    "dentist",
+    "gatsby-theme"
   ],
   "license": "MIT",
   "scripts": {
